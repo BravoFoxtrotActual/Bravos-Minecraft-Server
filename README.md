@@ -21,7 +21,7 @@ Close everything and run the launcher running the profile "Forge 1.20.1".
 
 
 
-[Hyokuris RPG-Full Release.zip](https://github.com/user-attachments/files/17466036/Hyokuris.RPG-Full.Release.zip)
+[Hyokuris RPG-1.0.zip](https://github.com/user-attachments/files/17466638/Hyokuris.RPG-1.0.zip)
 (I would recommend using 8Gb of ram to play for a smoother experience. To add more ram on CurseForge, click Play ->
 Installations -> "..." -> MORE OPTIONS -> RESET -> change the -Xmx2G into -Xmx8G then save. You will have to do this everytime.)
 
